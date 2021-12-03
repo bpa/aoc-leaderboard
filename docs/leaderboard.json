@@ -1,0 +1,312 @@
+{
+  "members": {
+    "1037027": {
+      "last_star_ts": 1638457722,
+      "global_score": 0,
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "get_star_ts": 1638384950
+          },
+          "2": {
+            "get_star_ts": 1638386289
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": 1638456852
+          },
+          "2": {
+            "get_star_ts": 1638457722
+          }
+        }
+      },
+      "name": "Carlson Quick",
+      "local_score": 36,
+      "stars": 4,
+      "id": "1037027"
+    },
+    "386163": {
+      "global_score": 0,
+      "last_star_ts": 1638422084,
+      "completion_day_level": {
+        "2": {
+          "1": {
+            "get_star_ts": 1638421886
+          },
+          "2": {
+            "get_star_ts": 1638422084
+          }
+        },
+        "1": {
+          "1": {
+            "get_star_ts": 1638341331
+          },
+          "2": {
+            "get_star_ts": 1638341583
+          }
+        }
+      },
+      "name": "Robert Kennedy",
+      "local_score": 51,
+      "id": "386163",
+      "stars": 4
+    },
+    "89871": {
+      "global_score": 0,
+      "last_star_ts": 1638421942,
+      "name": "davery22",
+      "completion_day_level": {
+        "2": {
+          "1": {
+            "get_star_ts": 1638421703
+          },
+          "2": {
+            "get_star_ts": 1638421942
+          }
+        },
+        "1": {
+          "2": {
+            "get_star_ts": 1638335978
+          },
+          "1": {
+            "get_star_ts": 1638335261
+          }
+        }
+      },
+      "id": "89871",
+      "stars": 4,
+      "local_score": 60
+    },
+    "480205": {
+      "name": "Nicholas Wills",
+      "completion_day_level": {
+        "2": {
+          "2": {
+            "get_star_ts": 1638422192
+          },
+          "1": {
+            "get_star_ts": 1638422043
+          }
+        },
+        "1": {
+          "1": {
+            "get_star_ts": 1638340599
+          },
+          "2": {
+            "get_star_ts": 1638340781
+          }
+        }
+      },
+      "last_star_ts": 1638422192,
+      "global_score": 0,
+      "id": "480205",
+      "stars": 4,
+      "local_score": 51
+    },
+    "1131356": {
+      "id": "1131356",
+      "stars": 0,
+      "local_score": 0,
+      "global_score": 0,
+      "last_star_ts": "0",
+      "name": "ashutosh tiwari",
+      "completion_day_level": {}
+    },
+    "843051": {
+      "name": "jmsplmr",
+      "completion_day_level": {},
+      "last_star_ts": "0",
+      "global_score": 0,
+      "local_score": 0,
+      "stars": 0,
+      "id": "843051"
+    },
+    "960537": {
+      "global_score": 0,
+      "last_star_ts": "0",
+      "completion_day_level": {},
+      "name": "Amit Meena",
+      "local_score": 0,
+      "stars": 0,
+      "id": "960537"
+    },
+    "26428": {
+      "stars": 4,
+      "id": "26428",
+      "local_score": 56,
+      "name": "Jeff Powell",
+      "completion_day_level": {
+        "1": {
+          "2": {
+            "get_star_ts": 1638335420
+          },
+          "1": {
+            "get_star_ts": 1638335107
+          }
+        },
+        "2": {
+          "2": {
+            "get_star_ts": 1638429383
+          },
+          "1": {
+            "get_star_ts": 1638428701
+          }
+        }
+      },
+      "global_score": 0,
+      "last_star_ts": 1638429383
+    },
+    "1564646": {
+      "name": "unrelentingfox",
+      "completion_day_level": {},
+      "last_star_ts": "0",
+      "global_score": 0,
+      "id": "1564646",
+      "stars": 0,
+      "local_score": 0
+    },
+    "786688": {
+      "stars": 4,
+      "id": "786688",
+      "local_score": 55,
+      "last_star_ts": 1638421718,
+      "global_score": 0,
+      "name": "Bruce Armstrong",
+      "completion_day_level": {
+        "2": {
+          "1": {
+            "get_star_ts": 1638421544
+          },
+          "2": {
+            "get_star_ts": 1638421718
+          }
+        },
+        "1": {
+          "1": {
+            "get_star_ts": 1638343877
+          },
+          "2": {
+            "get_star_ts": 1638344428
+          }
+        }
+      }
+    },
+    "922212": {
+      "id": "922212",
+      "stars": 4,
+      "local_score": 54,
+      "completion_day_level": {
+        "1": {
+          "2": {
+            "get_star_ts": 1638336674
+          },
+          "1": {
+            "get_star_ts": 1638335697
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": 1638421802
+          },
+          "2": {
+            "get_star_ts": 1638422309
+          }
+        }
+      },
+      "name": null,
+      "last_star_ts": 1638422309,
+      "global_score": 0
+    },
+    "1171890": {
+      "id": "1171890",
+      "stars": 0,
+      "local_score": 0,
+      "name": "Kevin Johnson",
+      "completion_day_level": {},
+      "last_star_ts": "0",
+      "global_score": 0
+    },
+    "1546002": {
+      "id": "1546002",
+      "stars": 4,
+      "local_score": 40,
+      "global_score": 0,
+      "last_star_ts": 1638433711,
+      "completion_day_level": {
+        "1": {
+          "2": {
+            "get_star_ts": 1638350034
+          },
+          "1": {
+            "get_star_ts": 1638346220
+          }
+        },
+        "2": {
+          "2": {
+            "get_star_ts": 1638433711
+          },
+          "1": {
+            "get_star_ts": 1638432768
+          }
+        }
+      },
+      "name": "Jatin Goyal"
+    },
+    "385575": {
+      "id": "385575",
+      "stars": 0,
+      "local_score": 0,
+      "global_score": 0,
+      "last_star_ts": "0",
+      "completion_day_level": {},
+      "name": "Joshua Jolley"
+    },
+    "816923": {
+      "id": "816923",
+      "stars": 0,
+      "local_score": 0,
+      "name": "Trevor Woodhouse",
+      "completion_day_level": {},
+      "last_star_ts": "0",
+      "global_score": 0
+    },
+    "757759": {
+      "completion_day_level": {},
+      "name": "Brenton Peck",
+      "last_star_ts": "0",
+      "global_score": 0,
+      "local_score": 0,
+      "id": "757759",
+      "stars": 0
+    },
+    "1568410": {
+      "last_star_ts": 1638421680,
+      "global_score": 0,
+      "completion_day_level": {
+        "1": {
+          "2": {
+            "get_star_ts": 1638335594
+          },
+          "1": {
+            "get_star_ts": 1638335121
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": 1638421549
+          },
+          "2": {
+            "get_star_ts": 1638421680
+          }
+        }
+      },
+      "name": "Micah Neely",
+      "id": "1568410",
+      "stars": 4,
+      "local_score": 65
+    }
+  },
+  "owner_id": "26428",
+  "event": "2021"
+}
