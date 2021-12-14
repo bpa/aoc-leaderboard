@@ -2,18 +2,18 @@
   "name": "leaderboard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bpa.github.io/aoc-leaderboard/",
+  "proxy": "https://adventofcode.com/",
   "dependencies": {
-    "@emotion/react": "^11.7.0",
-    "@emotion/styled": "^11.6.0",
-    "@mui/material": "^5.2.2",
+    "react": "^17.0.2",
+    "react-cookie": "^4.1.1",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "react-scripts": "4.0.3",
-    "web-vitals": "^1.0.1"
+    "http-proxy-middleware": "^2.0.1",
+    "react-scripts": "^4.0.3"
   },
   "scripts": {
     "start": "react-scripts start",
